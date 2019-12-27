@@ -1,14 +1,14 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
+<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Home</title>
+<title>Profile</title>
 </head>
 <body>
-<h3>Welcome To SSO with OAuth</h3>
-<h5>For First Time User</h5>
-<a href="signup">Update Profile</a>
+<h3>Profile Updated Successfully</h3>
+<a href="/">Home</a>
 </body>
 </html>
